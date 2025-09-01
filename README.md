@@ -1,5 +1,5 @@
 # AT Loss - Official Implementation
-**AT Loss: Advanced Torrential Loss Function for Robust Precipitation Forecasting**<br>
+**AT Loss: Advanced Torrential Loss Function for Precipitation Forecasting**<br>
 Jaeho Choi, Hyeri Kim, Kwang-Ho Kim, Jaesung Lee
 
 ## Requirements
